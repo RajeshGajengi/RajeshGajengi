@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 - 🎉 Fun fact: I once broke a Docker container 7 times in one hour... learned more than any tutorial ever taught me!
 
 ---
-
+<!--
 ## 💼 About Me
 
 I'm a self-driven and highly curious **DevOps Engineer Intern** with a background in Electronics & Telecommunication. I transitioned into tech to follow my passion for automation, system reliability, and seamless deployment workflows.
 
 I enjoy working across the DevOps lifecycle — from source control to deployment — and thrive in fast-paced, learning-rich environments. I focus on **hands-on projects**, **real-world simulations**, and writing about what I learn along the way.
-
+-->
 ---
 
 ## 🧰 Tech Stack & Tools
