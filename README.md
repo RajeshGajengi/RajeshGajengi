@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there, I'm Rajesh Gajengi
-
+<!--
 🎯 DevOps Engineer Intern | ☁️ Cloud & Container Enthusiast | 💻 Automating Everything  
 📍 India | 🚀 Learning by Doing | 🛠️ CI/CD | 🔐 Infrastructure as Code
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 I'm a self-driven and highly curious **DevOps Engineer Intern** with a background in Electronics & Telecommunication. I transitioned into tech to follow my passion for automation, system reliability, and seamless deployment workflows.
 
 I enjoy working across the DevOps lifecycle — from source control to deployment — and thrive in fast-paced, learning-rich environments. I focus on **hands-on projects**, **real-world simulations**, and writing about what I learn along the way.
--->
+
 ---
 
 ## 🧰 Tech Stack & Tools
@@ -64,7 +64,7 @@ I enjoy working across the DevOps lifecycle — from source control to deploymen
 
 - 📈 **CloudWatch Monitoring Setup** *(in progress)*  
   Integrating AWS CloudWatch for log monitoring and custom alerts.
-  -->
+ 
 
 > 📌 All projects available at: [github.com/rajuu9825](https://github.com/RajeshGajengi)
 
@@ -88,3 +88,4 @@ Currently diving deeper into:
 ---
 
 Thanks for visiting my profile — Let’s connect and build something awesome! 🚀
+ -->
