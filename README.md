@@ -1,91 +1,65 @@
-<!--
-**RajeshGajengi/RajeshGajengi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rajesh Gajengi
 
-Here are some ideas to get you started:
+🚀 **DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi there, I'm Rajesh Gajengi
-<!--
-🎯 DevOps Engineer Intern | ☁️ Cloud & Container Enthusiast | 💻 Automating Everything  
-📍 India | 🚀 Learning by Doing | 🛠️ CI/CD | 🔐 Infrastructure as Code
+I’m passionate about building scalable infrastructure, automating deployment pipelines, and managing cloud-native systems.  
+Currently, I’m exploring and implementing **DevOps best practices** across different projects to gain deep hands-on experience and strengthen my expertise in **cloud and container orchestration technologies**.
 
 ---
 
-## ⚡ Quick Bits
+### 🛠️ Skills & Tools
 
-- 🔭 Currently working as a **DevOps Intern**, building and maintaining CI/CD pipelines and automating deployments.
-- 🌱 Learning **Kubernetes**, **Terraform**, and advanced AWS services like **ECS**, **EKS**, and **CloudFormation**.
-- 👯 Open to collaborating on DevOps tools, containerized deployments, or infrastructure automation projects.
-- 🤔 Looking for help with real-world **monitoring, alerting**, and **logging** best practices in production.
-- 💬 Ask me about: Git, GitHub Actions, Docker, Jenkins, CI/CD, or deploying apps on AWS.
-- 📫 Reach me at: [rajuu9825@gmail.com](mailto:rajuu9825@gmail.com) or [LinkedIn]()
-- 😄 Pronouns: He/Him
-- 🎉 Fun fact: I once broke a Docker container 7 times in one hour... learned more than any tutorial ever taught me!
+💻 **Programming & OS:**  
+`Linux` · `Bash` · `Python`
 
----
-<!--
-## 💼 About Me
-
-I'm a self-driven and highly curious **DevOps Engineer Intern** with a background in Electronics & Telecommunication. I transitioned into tech to follow my passion for automation, system reliability, and seamless deployment workflows.
-
-I enjoy working across the DevOps lifecycle — from source control to deployment — and thrive in fast-paced, learning-rich environments. I focus on **hands-on projects**, **real-world simulations**, and writing about what I learn along the way.
+🧱 **DevOps & Cloud:**  
+`Docker` · `Kubernetes` · `Terraform` · `AWS (EC2, S3, RDS, Lambda, CloudWatch, Route53, CloudFront)` · `Jenkins` · `Git` · `Datadog`
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🚀 Featured Projects
 
-- 🐧 **OS & Scripting**: Linux, Bash
-- 📦 **Version Control**: Git, GitHub
-- 🐳 **Containerization**: Docker
-- 🔁 **CI/CD**: GitHub Actions, Jenkins, Maven
-- ☁️ **Cloud**: AWS (EC2, S3, CloudWatch)
-- 🛠 **Web & DB**: Apache, Nginx, MySQL
+#### 🧩 **3-Tier Web App Deployment (Automated with Jenkins + Terraform + Kubernetes)**
+- Built and deployed a **3-tier application** (frontend, backend, database) in a **Kubernetes cluster**.  
+- Used **Terraform** for infrastructure provisioning and **Jenkins pipelines** for CI/CD automation.  
+- Achieved full automation from code commit to deployment in EKS.
 
----
-
-## 🚀 Projects
-
-- 🔧 **CI/CD Pipeline for Spring Boot App**  
-  Built a complete CI/CD flow with GitHub Actions, Docker, and AWS EC2.
-<!--
-- 🐬 **MySQL Docker Container Setup**  
-  Created a secure and persistent MySQL container for local and cloud use.
-
-- 🌐 **Static Web App Deployment on Render**  
-  Deployed a lightweight web app using Docker and free hosting via Render.
-
-- 📈 **CloudWatch Monitoring Setup** *(in progress)*  
-  Integrating AWS CloudWatch for log monitoring and custom alerts.
- 
-
-> 📌 All projects available at: [github.com/rajuu9825](https://github.com/RajeshGajengi)
+#### ☸️ **EKS Cluster Setup using Terraform Modules**
+- Created an **EKS cluster** using reusable **Terraform modules**.  
+- Managed **multiple environments (dev, staging, prod)** using workspaces and variables.  
+- Integrated with **AWS CloudWatch** and **Datadog** for monitoring and observability.
 
 ---
 
-## ✍️ Blogs & Learning
-
-I share my DevOps journey, tutorials, and project experiences through technical writing:  
-📖 [Medium – Rajesh Gajengi](https://medium.com/@rajuu9825)
+### 🌱 Currently Learning
+Exploring advanced **AWS cloud architectures**, **Kubernetes operators**, and **observability tools** while continuously improving automation workflows.
 
 ---
 
-## 🔭 What’s Next?
+### 🧩 My DevOps Philosophy
+> "Automate everything, scale smartly, and monitor always." 🧠  
 
-Currently diving deeper into:
-- ✅ Kubernetes (k8s)
-- ✅ Terraform
-- ✅ Infrastructure Monitoring (Prometheus + Grafana)
-- ✅ AWS ECS / EKS & CloudFormation
+I believe in the power of **automation**, **continuous learning**, and **clean, reproducible infrastructure** that scales efficiently.
 
 ---
 
-Thanks for visiting my profile — Let’s connect and build something awesome! 🚀
- -->
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeshGajengi&show_icons=true&theme=tokyonight" alt="Rajesh's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshGajengi&theme=tokyonight" alt="Rajesh's GitHub Streak" height="160"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajesh-gajengi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@rajeshgajengi" target="_blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="mailto:rajeshgajengi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **"Building, Automating, and Scaling the Cloud — one pipeline at a time."**
