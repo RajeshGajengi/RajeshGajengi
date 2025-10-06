@@ -55,9 +55,9 @@ I believe in the power of **automation**, **continuous learning**, and **clean, 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajesh-gajengi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@rajeshgajengi" target="_blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
-  <a href="mailto:rajeshgajengi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/rajesh-g-8a0505375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="[https://medium.com/@rajeshgajengi](https://medium.com/@rajuu9825/)" target="_blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="grajesh2125@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
