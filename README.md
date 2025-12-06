@@ -21,10 +21,12 @@ Currently, I’m exploring and implementing **DevOps best practices** across dif
 
 | Sr No | Skills / Tools | Projects |
 |-------|----------------|----------|
-| 1 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | [Project A](#) |
-| 2 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | [Project B](#) |
-| 3 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-      ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | [Project 1 - Deployed simple monolithic to do application ](#) |
+| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
+| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
+| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
+| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  | [Project 3 - Deployed 3 tier application using Docker and Kubernetes](https://github.com/RajeshGajengi/student-registration-app) |
+| 2 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | [Project 2 - Deployed 3 tier application](https://github.com/RajeshGajengi/students-database-app) |
+| 3 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | [Project 1 - Deployed simple monolithic to do application ](https://github.com/RajeshGajengi/react-todo-app) |
 
 | Sr No | Skills / Tools | Projects |
 |-------|----------------|----------|
