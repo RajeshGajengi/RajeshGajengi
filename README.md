@@ -19,14 +19,14 @@ Currently, I’m exploring and implementing **DevOps best practices** across dif
 
 ### 🚀 Featured Projects (reverse Order) 
 
-| Sr No | Skills / Tools | Projects |
-|-------|----------------|----------|
-| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
-| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
-| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
-| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  | [Project 3 - Deployed 3 tier application using Docker and Kubernetes](https://github.com/RajeshGajengi/student-registration-app) |
-| 2 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | [Project 2 - Deployed 3 tier application](https://github.com/RajeshGajengi/students-database-app) |
-| 3 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | [Project 1 - Deployed simple monolithic to do application ](https://github.com/RajeshGajengi/react-todo-app) |
+| Sr No | Domain | Skills / Tools | Projects |
+|-------|--------|----------------|----------|
+| 1 |   | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
+| 1 |   | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  | [Project A](#) |
+| 1 | Devops - CICD + Containerization   | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=codecademy&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  | [Project 4 - Deployed application using Docker with CICD pipeline ](#) |
+| 1 | DevOps - Containerization + Orchestrations  | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  | [Project 3 - Deployed 3 tier application using Docker and Kubernetes](https://github.com/RajeshGajengi/student-registration-app) |
+| 2 | DevOps - Containerization + Orchestrations  | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | [Project 2 - Deployed 3 tier application](https://github.com/RajeshGajengi/students-database-app) |
+| 1 |DevOps - COntainerization + CICD   | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | [Project 1 - Deployed simple monolithic to do application ](https://github.com/RajeshGajengi/react-todo-app) |
 
 | Sr No | Skills / Tools | Projects |
 |-------|----------------|----------|
@@ -38,6 +38,12 @@ Currently, I’m exploring and implementing **DevOps best practices** across dif
 | 6 | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) |  |
 | 7 | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |  |
 | 8 | ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white) |  |
+
+| 1 | ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=codecademy&logoColor=white) |  |
+| 2 | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) |  |
+| 3 | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white) |  |
+| 4 | ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE7A16?logo=argo&logoColor=white) |  |
+
 
 
 
