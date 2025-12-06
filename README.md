@@ -19,6 +19,14 @@ Currently, I’m exploring and implementing **DevOps best practices** across dif
 
 ### 🚀 Featured Projects
 
+| Sr No | Skills / Tools | Projects |
+|-------|----------------|----------|
+| 1 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | [Project A](#) |
+| 2 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | [Project B](#) |
+| 3 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [Project C](#) |
+
+
+<!--
 #### 🧩 **3-Tier Web App Deployment (Automated with Jenkins + Terraform + Kubernetes)**
 - Built and deployed a **3-tier application** (frontend, backend, database) in a **Kubernetes cluster**.  
 - Used **Terraform** for infrastructure provisioning and **Jenkins pipelines** for CI/CD automation.  
@@ -28,7 +36,7 @@ Currently, I’m exploring and implementing **DevOps best practices** across dif
 - Created an **EKS cluster** using reusable **Terraform modules**.  
 - Managed **multiple environments (dev, staging, prod)** using workspaces and variables.  
 - Integrated with **AWS CloudWatch** and **Datadog** for monitoring and observability.
-
+-->
 ---
 
 ### 🌱 Currently Learning
