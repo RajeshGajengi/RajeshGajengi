@@ -17,13 +17,13 @@ Currently, I’m exploring and implementing **DevOps best practices** across dif
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (reverse Order) 
 
 | Sr No | Skills / Tools | Projects |
 |-------|----------------|----------|
 | 1 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | [Project A](#) |
 | 2 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | [Project B](#) |
-| 3 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [Project C](#) |
+| 3 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | [Project 1 - Deployed simple monolithic to do application ](#) |
 
 | Sr No | Skills / Tools | Projects |
 |-------|----------------|----------|
