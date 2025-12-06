@@ -25,6 +25,18 @@ Currently, I’m exploring and implementing **DevOps best practices** across dif
 | 2 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | [Project B](#) |
 | 3 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [Project C](#) |
 
+| Sr No | Skills / Tools | Projects |
+|-------|----------------|----------|
+| 1 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |  |
+| 2 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |  |
+| 3 | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) |  |
+| 4 | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) |  |
+| 5 | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |  |
+| 6 | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) |  |
+| 7 | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |  |
+| 8 | ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white) |  |
+
+
 
 <!--
 #### 🧩 **3-Tier Web App Deployment (Automated with Jenkins + Terraform + Kubernetes)**
