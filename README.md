@@ -11,10 +11,6 @@
 ## 🛠️ Skills & Tools
 
 ### 💻 **Programming & OS**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -37,6 +33,8 @@
 
 ### **Monitoring & Observability**
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F00?logo=amazonaws&logoColor=white)
 
 ---
