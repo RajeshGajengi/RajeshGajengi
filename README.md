@@ -38,16 +38,17 @@
 ## 🚀 Featured DevOps Projects  
 (Reverse order – latest at the top)
 
-| Sr No | Domain | Skills / Tools | Project |
-|------|--------|----------------|---------|
-| **1** | End-to-End DevOps Pipeline | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | 🔗 [**In Progress – End-to-End 3-Tier DevOps Pipeline**](https://github.com/RajeshGajengi/end-to-end-3tier-devops-pipeline) |
-| **2** | CI/CD + Cloud + Kubernetes | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) | 🔗 [**CI/CD Pipeline for Dockerized 3-Tier Application on AWS EKS**](https://github.com/RajeshGajengi/eks-3tier-app-cicd) |
-| **3** | IaC + Cloud Automation | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | 🔗 [**Multi-Environment AWS EKS Infrastructure with Terraform**](https://github.com/RajeshGajengi/terraform-eks-multi-env-infra) |
-| **4** | IaC + Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | 🔗 [**AWS EKS Cluster Provisioning using Terraform**](https://github.com/RajeshGajengi/eks-terraform) |
-| **5** | CI/CD + Containers | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | 🔗 [**Automated CI/CD Pipeline for 3-Tier CRUD App (Docker + Jenkins)**](https://github.com/RajeshGajengi/crud-3tier-cicd-docker-pipeline) |
-| **6** | Containerization + Orchestration | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | 🔗 [**3-Tier Application Deployment on Kubernetes**](https://github.com/RajeshGajengi/student-registration-app) |
-| **7** | Containers + Kubernetes | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | 🔗 [**Student Database App Deployment on Kubernetes**](https://github.com/RajeshGajengi/students-database-app) |
-| **8** | Containerization + CI/CD | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | 🔗 [**Monolithic Todo App Deployment using Jenkins + Docker**](https://github.com/RajeshGajengi/react-todo-app) |
+| # | Area | Technologies | Project |
+|---|------|-------------|---------|
+| **1** | Cloud + DevOps | AWS · Terraform · Ansible · Jenkins · Docker · Kubernetes · SonarQube · Datadog | [End-to-End 3-Tier DevOps Pipeline (In Progress)](https://github.com/RajeshGajengi/end-to-end-3tier-devops-pipeline) |
+| **2** | Cloud + DevOps | AWS · Jenkins · Docker · Kubernetes · SonarQube | [CI/CD Pipeline for Dockerized 3-Tier App on EKS](https://github.com/RajeshGajengi/eks-3tier-app-cicd) |
+| **3** | Infrastructure Management | AWS · Terraform | [Multi-Environment AWS EKS Infrastructure](https://github.com/RajeshGajengi/terraform-eks-multi-env-infra) |
+| **4** | Infrastructure Management | AWS · Terraform | [AWS EKS Cluster Provisioning using Terraform](https://github.com/RajeshGajengi/eks-terraform) |
+| **5** | CI/CD + Containerization (Microservice) | Jenkins · Docker | [Automated CI/CD for 3-Tier CRUD Application](https://github.com/RajeshGajengi/crud-3tier-cicd-docker-pipeline) |
+| **6** | Containerization + Orchestration | Docker · Kubernetes | [3-Tier Application Deployment on Kubernetes](https://github.com/RajeshGajengi/student-registration-app) |
+| **7** | Containerization + Orchestration | Docker · Kubernetes | [Student Database App on Kubernetes](https://github.com/RajeshGajengi/students-database-app) |
+| **8** | CI/CD + Containerization (Monolithic) | Jenkins · Docker | [Monolithic Todo App CI/CD Pipeline](https://github.com/RajeshGajengi/react-todo-app) |
+
 
 ---
 
@@ -94,8 +95,3 @@
 <p align="center"><b>⭐ "Building, Automating, and Scaling the Cloud — one pipeline at a time." ⭐</b></p>
 
 
-
-
-above is my readme profile.
-
-can you make it professional industry standard look.
