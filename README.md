@@ -1,8 +1,5 @@
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Rajesh+Gajengi;DevOps+%26+Cloud+Engineer;Building+and+Automating+Cloud+Infrastructure" alt="Typing SVG" />
-  </a>
-</h3>
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rajesh+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
+
 
 <p align="center">
   <samp>
@@ -15,15 +12,12 @@
   </samp>
 </p>
 
-<p align="center">
-  <a href="https://github.com/RajeshGajengi">
-    <img src="https://komarev.com/ghpvc/?username=RajeshGajengi&label=Profile%20Views&color=0e75b6&style=flat" alt="RajeshGajengi" />
-  </a>
-</p>
+<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RajeshGajengi&theme=algolia" alt="RajeshGajengi" /></p>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="GitHub Streak" /></a> -->
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ---
-
-<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ## :zap: Skills
 
@@ -54,13 +48,13 @@
 ### 🐳 Containers & Orchestration
 
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="70" />
 </a>
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="70" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="70" />
 </a>
 <a href="https://helm.sh/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" height="70" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="70" />
 </a>
 
 ### 🔄 CI/CD & Automation
@@ -201,17 +195,34 @@ Created a CI/CD pipeline for building and deploying a containerized monolithic T
 </p>
 
 ---
+## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajeshGajengi&theme=2077" alt="RajeshGajengi" /></p>
 
-## 📊 GitHub Stats
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajeshGajengi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=RajeshGajengi&theme=tokyonight&hide_border=true" height="165" />
-</p>
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshGajengi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajeshGajengi&theme=aura" alt="RajeshGajengi" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajeshGajengi&theme=aura" alt="RajeshGajengi" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajeshGajengi&theme=great_gatsby" alt="RajeshGajengi" /></p>
+ 
+
+</details>
+
+ 
+
+  
 
 ---
 
@@ -259,11 +270,8 @@ and project experiences.
 
 ### ⭐ Show some ❤️ by starring some of my repositories!
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Automating" alt="Typing SVG" />
-  </a>
-</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
+
 
 #### Thanks for visiting! ❤️
 
