@@ -1,165 +1,270 @@
-<!-- HEADER -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4ca3dd">Rajesh Gajengi</span></h1>
-
-<h3 align="center">🚀 DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD Automation</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Rajesh+Gajengi;DevOps+%26+Cloud+Engineer;Building+and+Automating+Cloud+Infrastructure" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
-  Passionate about cloud infrastructure, containerization, automation, monitoring, and building reliable CI/CD pipelines using modern DevOps tools and practices.
+  <samp>
+    Hey, my name is <em>Rajesh Gajengi</em> and I am a DevOps & Cloud Engineer
+    passionate about cloud infrastructure, containerization, automation, and
+    continuous delivery. I enjoy working with Linux, AWS, Docker, Kubernetes,
+    Terraform, Jenkins, and modern monitoring tools to build reliable and
+    scalable environments. I'm continuously learning and improving my skills
+    by working on real-world DevOps projects. ⚙️☁️
+  </samp>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Docker+%7C+Jenkins;Automate+%7C+Deploy+%7C+Monitor" alt="Typing SVG" />
+  <a href="https://github.com/RajeshGajengi">
+    <img src="https://komarev.com/ghpvc/?username=RajeshGajengi&label=Profile%20Views&color=0e75b6&style=flat" alt="RajeshGajengi" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
-* 🔧 DevOps & Cloud Engineer focused on **AWS, Linux, Docker, Kubernetes, and Infrastructure as Code**
-* ☁️ Hands-on experience building and managing **AWS cloud infrastructure**
-* 🚀 Interested in **CI/CD automation, container orchestration, and cloud-native deployments**
-* 🏗️ Building practical projects around **EKS, Terraform, Jenkins, Docker, and Kubernetes**
-* 📊 Exploring modern **monitoring and observability** using Datadog, Prometheus, Grafana, and CloudWatch
-* 🌱 Continuously learning and improving my DevOps and cloud engineering skills
-
----
-
-## 🛠️ Skills & Tools
+## :zap: Skills
 
 ### 💻 Programming & Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70" />
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="70" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" />
+</a>
 
 ### ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible\&logoColor=white)
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70" />
+</a>
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="70" />
+</a>
+<a href="https://www.ansible.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="70" />
+</a>
 
-### 📦 Containers & Orchestration
+### 🐳 Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm\&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FE7A16?logo=argo\&logoColor=white)
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" />
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="70" />
+</a>
+<a href="https://helm.sh/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" height="70" />
+</a>
 
 ### 🔄 CI/CD & Automation
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="70" />
+</a>
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="70" />
+</a>
+<a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="70" />
+</a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" height="70" />
+</a>
 
 ### 📊 Monitoring & Observability
 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F00?logo=amazonaws\&logoColor=white)
+<a href="https://www.datadoghq.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" height="70" />
+</a>
+<a href="https://prometheus.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="70" />
+</a>
+<a href="https://grafana.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="70" />
+</a>
 
 ---
 
 ## 🚀 Featured DevOps Projects
 
-Projects are listed with the latest work first.
+### ☁️ End-to-End 3-Tier DevOps Pipeline
 
-| #     | Area                  | Technologies                                                                    | Project                                                                                                         |
-| ----- | --------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **1** | ☁️ Cloud + DevOps     | AWS · Terraform · Ansible · Jenkins · Docker · Kubernetes · SonarQube · Datadog | [End-to-End 3-Tier DevOps Pipeline](https://github.com/RajeshGajengi/end-to-end-3tier-devops-pipeline)          |
-| **2** | ☁️ Cloud + DevOps     | AWS · Jenkins · Docker · Kubernetes · SonarQube                                 | [CI/CD Pipeline for Dockerized 3-Tier App on EKS](https://github.com/RajeshGajengi/eks-3tier-app-cicd)          |
-| **3** | 🏗️ Infrastructure    | AWS · Terraform                                                                 | [Multi-Environment AWS EKS Infrastructure](https://github.com/RajeshGajengi/terraform-eks-multi-env-infra)      |
-| **4** | 🏗️ Infrastructure    | AWS · Terraform                                                                 | [AWS EKS Cluster Provisioning using Terraform](https://github.com/RajeshGajengi/eks-terraform)                  |
-| **5** | 🔄 CI/CD + Containers | Jenkins · Docker                                                                | [Automated CI/CD for 3-Tier CRUD Application](https://github.com/RajeshGajengi/crud-3tier-cicd-docker-pipeline) |
-| **6** | 📦 Kubernetes         | Docker · Kubernetes                                                             | [3-Tier Application Deployment on Kubernetes](https://github.com/RajeshGajengi/student-registration-app)        |
-| **7** | 📦 Kubernetes         | Docker · Kubernetes                                                             | [Student Database App on Kubernetes](https://github.com/RajeshGajengi/students-database-app)                    |
-| **8** | 🔄 CI/CD + Containers | Jenkins · Docker                                                                | [Monolithic Todo App CI/CD Pipeline](https://github.com/RajeshGajengi/react-todo-app)                           |
+**AWS · Terraform · Ansible · Jenkins · Docker · Kubernetes · SonarQube · Datadog**
+
+Building an end-to-end DevOps workflow for deploying and monitoring a 3-tier application using AWS infrastructure, Infrastructure as Code, CI/CD, containers, Kubernetes, and observability tools.
+
+🔗 [View Project](https://github.com/RajeshGajengi/end-to-end-3tier-devops-pipeline)
+
+---
+
+### 🔄 CI/CD Pipeline for 3-Tier Application on EKS
+
+**AWS · Jenkins · Docker · Kubernetes · SonarQube**
+
+Implemented a CI/CD pipeline for a containerized 3-tier application and deployed the application to Amazon EKS.
+
+🔗 [View Project](https://github.com/RajeshGajengi/eks-3tier-app-cicd)
+
+---
+
+### 🏗️ Multi-Environment AWS EKS Infrastructure
+
+**AWS · Terraform**
+
+Created reusable Terraform infrastructure for managing AWS EKS environments with separate configurations for different environments.
+
+🔗 [View Project](https://github.com/RajeshGajengi/terraform-eks-multi-env-infra)
+
+---
+
+### ⚙️ AWS EKS Cluster Provisioning with Terraform
+
+**AWS · Terraform**
+
+Provisioned AWS networking and EKS infrastructure using Terraform, following a modular Infrastructure-as-Code approach.
+
+🔗 [View Project](https://github.com/RajeshGajengi/eks-terraform)
+
+---
+
+### 🔧 Automated CI/CD for 3-Tier CRUD Application
+
+**Jenkins · Docker**
+
+Built a Jenkins-based CI/CD pipeline to build, test, containerize, and deploy a 3-tier CRUD application.
+
+🔗 [View Project](https://github.com/RajeshGajengi/crud-3tier-cicd-docker-pipeline)
+
+---
+
+### ☸️ 3-Tier Application Deployment on Kubernetes
+
+**Docker · Kubernetes**
+
+Containerized and deployed a 3-tier application using Docker and Kubernetes.
+
+🔗 [View Project](https://github.com/RajeshGajengi/student-registration-app)
+
+---
+
+### 🗄️ Student Database Application on Kubernetes
+
+**Docker · Kubernetes**
+
+Containerized a student database application and deployed its components using Kubernetes.
+
+🔗 [View Project](https://github.com/RajeshGajengi/students-database-app)
+
+---
+
+### 🔄 Monolithic Todo App CI/CD Pipeline
+
+**Jenkins · Docker**
+
+Created a CI/CD pipeline for building and deploying a containerized monolithic Todo application.
+
+🔗 [View Project](https://github.com/RajeshGajengi/react-todo-app)
 
 ---
 
 ## 🌱 Currently Learning
 
-* ☁️ Advanced **AWS architecture and cloud services**
-* ☸️ Advanced **Kubernetes and EKS**
-* 🏗️ **Terraform modules and multi-environment infrastructure**
-* 🔄 **CI/CD pipeline automation**
-* 🔐 **DevSecOps practices and security scanning**
-* 📊 **Datadog, Prometheus & Grafana observability**
-* 🚀 **ArgoCD and GitOps workflows**
-* ⚙️ **Ansible automation**
+* ☁️ Advanced AWS architecture and cloud services
+* ☸️ Kubernetes and Amazon EKS
+* 🏗️ Infrastructure as Code with Terraform
+* 🔄 CI/CD automation with Jenkins
+* 📊 Observability with Datadog, Prometheus & Grafana
+* 🔐 DevOps security and best practices
+* 🤖 Ansible automation
+* 🔀 GitOps and Argo CD
 
 ---
 
 ## 🧩 DevOps Philosophy
 
-> **"Automate where possible, deploy with confidence, and monitor everything."**
-
-I believe good DevOps is about creating reliable, repeatable, and maintainable processes that make software delivery faster and more consistent.
-
----
-
-## 📈 GitHub Stats
+<p align="center">
+  <samp>
+    <b>"Automate what you can, monitor what matters, and keep learning."</b>
+  </samp>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajeshGajengi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=RajeshGajengi&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshGajengi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  I believe in learning by building real projects, automating repetitive
+  tasks, and continuously improving infrastructure and deployment processes.
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajeshGajengi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeshGajengi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=RajeshGajengi&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshGajengi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📚 Latest Learning & Blogs
+
+I regularly share my DevOps and Cloud learning journey, practical tutorials,
+and project experiences.
 
 <p align="center">
+  <a href="https://medium.com/@rajuu9825">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## 📫 How to Reach Me?
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rajesh-g-8a0505375" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rajesh%20Gajengi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://medium.com/@rajuu9825" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Rajesh%20Gajengi-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
   <a href="mailto:grajesh2125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  I'm always interested in connecting with people working in
-  <b>DevOps, Cloud, Kubernetes, AWS, Automation, and Cloud-Native technologies.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
-
-<p align="center">
-  <a href="https://github.com/RajeshGajengi">
-    <img src="https://komarev.com/ghpvc/?username=RajeshGajengi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>🚀 Building, Automating, and Scaling the Cloud — one pipeline at a time.</b>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br>
+  <em><b>I love connecting with people and learning new technologies.</b><br>
+  Feel free to explore my repositories and connect with me! 😊</em>
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Show some ❤️ by starring some of my repositories!
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Automating" alt="Typing SVG" />
+  </a>
+</p>
+
+#### Thanks for visiting! ❤️
+
+</div>
